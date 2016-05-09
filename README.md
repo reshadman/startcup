@@ -2,7 +2,7 @@
 Startcup league website. [Visit the website](http://startcup.ir)
 
 # Development
-React, Redux, Webpack and Postcss are used to create this website. You can develop and run the app locally by running:
+React, Redux, Webpack and Postcss have been used to create this website. You can develop and run the app locally by running:
 
 ```
 npm run dev
